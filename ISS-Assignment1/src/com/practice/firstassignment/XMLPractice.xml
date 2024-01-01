@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zoo>
+    <animal>
+        <name>Lion</name>
+        <species>Panthera leo</species>
+        <habitat>Savannah</habitat>
+    </animal>
+    <animal>
+        <name>Elephant</name>
+        <species>Loxodonta africana</species>
+        <habitat>Grasslands</habitat>
+    </animal>
+    <animal>
+        <name>Giraffe</name>
+        <species>Giraffa camelopardalis</species>
+        <habitat>Open Woodlands</habitat>
+    </animal>
+    <animal>
+        <name>Zebra</name>
+        <species>Equus zebra</species>
+        <habitat>Grasslands</habitat>
+    </animal>
+</zoo>
